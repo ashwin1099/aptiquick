@@ -23,7 +23,7 @@ Future<void> _initializeFirebase() async {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
           apiKey: "API_KEY",
-          authDomain: "carrer-track.firebaseapp.com",
+          authDomain: "auth_dom",
           projectId: "carrer-track",
           storageBucket: "carrer-track.firebasestorage.app",
           messagingSenderId: "SENDER_ID",
