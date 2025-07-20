@@ -66,9 +66,22 @@ careertrack/
 ---
 
 
-## 📷 Screenshots
+## 📸 Screenshots
 
-*(Coming soon)*
+### 🏠 Home Screen  
+![Home Screen](assets/screenshots/Homescreen.jpg)
+
+### 🧪 Live Test  
+![Live Test](assets/screenshots/LiveTest.jpg)
+
+### 📚 Practice Questions  
+![Practice Questions](assets/screenshots/PracticeQuestions.jpg)
+
+### 📊 Results Page  
+![Results Page](assets/screenshots/ResultsPage.jpg)
+
+### 🧠 Topic Selection  
+![Topics](assets/screenshots/Topics.jpg)
 
 ---
 
