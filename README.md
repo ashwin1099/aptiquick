@@ -49,7 +49,7 @@ careertrack/
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/ashwin1099/career-track.git
+   git clone https://github.com/ashwin1099/careertrack.git
    cd careertrack
    ```
 
