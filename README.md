@@ -65,15 +65,6 @@ careertrack/
 
 ---
 
-## 📌 Future Plans
-
-- [x] TCS-level aptitude questions
-- [x] Timer-based mocks
-- [x] AI chatbot with explanations
-- [x] Detailed result analytics
-- [x] Leaderboards / streaks
-
----
 
 ## 📷 Screenshots
 
