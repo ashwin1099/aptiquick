@@ -22,12 +22,12 @@ Future<void> _initializeFirebase() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-          apiKey: "AIzaSyBjUvoQB02vjHKwAKM5NFgolnKHleAgr6o",
+          apiKey: "API_KEY",
           authDomain: "carrer-track.firebaseapp.com",
           projectId: "carrer-track",
           storageBucket: "carrer-track.firebasestorage.app",
-          messagingSenderId: "282602147152",
-          appId: "1:282602147152:web:9ff675517e9d2fcd637055",
+          messagingSenderId: "SENDER_ID",
+          appId: "APP_ID",
       ),
     );
   } else {
