@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282602147152",
+    "project_id": "carrer-track",
+    "storage_bucket": "carrer-track.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282602147152:android:8508d18fe6f2350e637055",
+        "android_client_info": {
+          "package_name": "com.ashwin.careertrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzRgGLGQHnF9u1GWcx7Ml93Te9bevwbB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
