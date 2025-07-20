@@ -69,19 +69,20 @@ careertrack/
 ## 📸 Screenshots
 
 ### 🏠 Home Screen  
-![Home Screen](assets/screenshots/Homescreen.jpg)
+<img src="assets/screenshots/Homescreen.jpg" alt="Home Screen" width="400"/>
 
 ### 🧪 Live Test  
-![Live Test](assets/screenshots/LiveTest.jpg)
+<img src="assets/screenshots/LiveTest.jpg" alt="Live Test" width="400"/>
 
 ### 📚 Practice Questions  
-![Practice Questions](assets/screenshots/PracticeQuestions.jpg)
+<img src="assets/screenshots/PracticeQuestions.jpg" alt="Practice Questions" width="400"/>
 
 ### 📊 Results Page  
-![Results Page](assets/screenshots/ResultsPage.jpg)
+<img src="assets/screenshots/ResultsPage.jpg" alt="Results Page" width="400"/>
 
 ### 🧠 Topic Selection  
-![Topics](assets/screenshots/Topics.jpg)
+<img src="assets/screenshots/Topics.jpg" alt="Topics" width="400"/>
+
 
 ---
 
