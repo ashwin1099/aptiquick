@@ -1,6 +1,6 @@
-# CareerTrack 🧠📱
+# AptiQuick 🧠📱
 
-**CareerTrack** is an AI-powered aptitude preparation app built with Flutter. It helps students and job seekers practice for competitive exams like **TCS NQT**, **Wipro**, **Infosys**, and more. The app provides mock tests, topic-wise practice, and intelligent solutions using AI (optional).
+**AptiQuick** is an AI-powered aptitude preparation app built with Flutter. It helps students and job seekers practice for competitive exams like **TCS NQT**, **Wipro**, **Infosys**, and more. The app provides mock tests, topic-wise practice, and intelligent solutions using AI (optional).
 
 ---
 
@@ -18,7 +18,7 @@
 ## 📁 Folder Structure
 
 ```
-careertrack/
+AptiQuick/
 ├── android/           # Android-specific code
 ├── assets/            # Fonts, images, question data
 ├── ios/               # iOS-specific code
@@ -49,8 +49,8 @@ careertrack/
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/ashwin1099/careertrack.git
-   cd careertrack
+   git clone https://github.com/ashwin1099/AptiQuick.git
+   cd AptiQuick
    ```
 
 2. Get dependencies  
